@@ -14,6 +14,8 @@
 
 </div>
 
+![gif](assets/ezgif-2-2e88184649.gif)
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=30&pause=1000&color=F7F7F7&center=true&width=700&lines=%F0%9F%94%A5+ML+Engineer+%E2%80%94+NLP%2C+RAG+%26+MLOps+%F0%9F%94%A5)](https://git.io/typing-svg)
